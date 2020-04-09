@@ -1,4 +1,4 @@
-#Problem formulation
+Problem formulation
 
 This project boils down to representing a graph from data given by the files in data, and then doing several BFS to find shortest path between a pair of nodes.
 
